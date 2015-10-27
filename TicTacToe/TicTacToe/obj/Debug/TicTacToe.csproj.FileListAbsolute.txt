@@ -1,0 +1,15 @@
+C:\pjs\swcguild\Microsoft\Samples\Vending\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe.config
+C:\pjs\swcguild\Microsoft\Samples\Vending\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe
+C:\pjs\swcguild\Microsoft\Samples\Vending\TicTacToe\TicTacToe\bin\Debug\TicTacToe.pdb
+C:\pjs\swcguild\Microsoft\Samples\Vending\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csprojResolveAssemblyReference.cache
+C:\pjs\swcguild\Microsoft\Samples\Vending\TicTacToe\TicTacToe\obj\Debug\TicTacToe.exe
+C:\pjs\swcguild\Microsoft\Samples\Vending\TicTacToe\TicTacToe\obj\Debug\TicTacToe.pdb
+C:\Bootcamp Code\Graded Homework\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe.config
+C:\Bootcamp Code\Graded Homework\TicTacToe\TicTacToe\obj\Debug\TicTacToe.exe
+C:\Bootcamp Code\Graded Homework\TicTacToe\TicTacToe\obj\Debug\TicTacToe.pdb
+C:\Bootcamp Code\Graded Homework\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csprojResolveAssemblyReference.cache
+C:\Bootcamp Code\Graded Homework\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe
+C:\Bootcamp Code\Graded Homework\TicTacToe\TicTacToe\bin\Debug\TicTacToe.pdb
+C:\Portfolio\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe.config
+C:\Portfolio\TicTacToe\TicTacToe\obj\Debug\TicTacToe.exe
+C:\Portfolio\TicTacToe\TicTacToe\obj\Debug\TicTacToe.pdb

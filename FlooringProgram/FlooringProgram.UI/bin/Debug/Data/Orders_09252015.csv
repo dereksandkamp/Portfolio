@@ -1,0 +1,2 @@
+Date,OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+9/25/2015 12:00:00 AM,1,Frodo,MI,5.75,Carpet,1000.0,2.25,2.10,2250.00,2100.00,250.125000,4600.12500

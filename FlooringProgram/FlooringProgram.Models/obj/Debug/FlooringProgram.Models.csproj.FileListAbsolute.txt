@@ -1,0 +1,7 @@
+C:\flooringprogram\FlooringProgram\FlooringProgram.Models\bin\Debug\FlooringProgram.Models.dll
+C:\flooringprogram\FlooringProgram\FlooringProgram.Models\bin\Debug\FlooringProgram.Models.pdb
+C:\flooringprogram\FlooringProgram\FlooringProgram.Models\bin\Debug\nunit.framework.dll
+C:\flooringprogram\FlooringProgram\FlooringProgram.Models\bin\Debug\nunit.framework.xml
+C:\flooringprogram\FlooringProgram\FlooringProgram.Models\obj\Debug\FlooringProgram.Models.csprojResolveAssemblyReference.cache
+C:\flooringprogram\FlooringProgram\FlooringProgram.Models\obj\Debug\FlooringProgram.Models.dll
+C:\flooringprogram\FlooringProgram\FlooringProgram.Models\obj\Debug\FlooringProgram.Models.pdb

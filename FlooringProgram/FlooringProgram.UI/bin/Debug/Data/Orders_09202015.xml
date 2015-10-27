@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DateWithOrders>
+  <Order>
+    <Date>9/20/2015</Date>
+    <OrderNumber>1</OrderNumber>
+    <CustomerName>Spiderman</CustomerName>
+    <State>PA</State>
+    <TaxPercent>6.75</TaxPercent>
+    <ProductType>Wood</ProductType>
+    <Area>75</Area>
+    <CostPerSquareFoot>5.15</CostPerSquareFoot>
+    <LaborCostPerSquareFoot>4.75</LaborCostPerSquareFoot>
+    <MaterialCost>386.25</MaterialCost>
+    <LaborCost>356.25</LaborCost>
+    <Tax>50.118750</Tax>
+    <Total>792.61875</Total>
+  </Order>
+</DateWithOrders>

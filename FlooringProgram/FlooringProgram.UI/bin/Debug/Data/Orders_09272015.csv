@@ -1,0 +1,2 @@
+Date,OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+9/27/2015 12:00:00 AM,1,Bilbo,IN,6.00,Wood,50,5.15,4.75,257.50,237.50,29.700000,524.700000

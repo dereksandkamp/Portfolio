@@ -1,0 +1,15 @@
+C:\Users\CodeCamp\Desktop\Visual Studio Projects\Battleship\BattleShip_Start\BattleShip.BLL\bin\Debug\BattleShip.BLL.dll
+C:\Users\CodeCamp\Desktop\Visual Studio Projects\Battleship\BattleShip_Start\BattleShip.BLL\bin\Debug\BattleShip.BLL.pdb
+C:\Users\CodeCamp\Desktop\Visual Studio Projects\Battleship\BattleShip_Start\BattleShip.BLL\obj\Debug\BattleShip.BLL.csprojResolveAssemblyReference.cache
+C:\Users\CodeCamp\Desktop\Visual Studio Projects\Battleship\BattleShip_Start\BattleShip.BLL\obj\Debug\BattleShip.BLL.dll
+C:\Users\CodeCamp\Desktop\Visual Studio Projects\Battleship\BattleShip_Start\BattleShip.BLL\obj\Debug\BattleShip.BLL.pdb
+C:\Bootcamp Code\Battleship\BattleShip_Start\BattleShip.BLL\bin\Debug\BattleShip.BLL.dll
+C:\Bootcamp Code\Battleship\BattleShip_Start\BattleShip.BLL\bin\Debug\BattleShip.BLL.pdb
+C:\Bootcamp Code\Battleship\BattleShip_Start\BattleShip.BLL\obj\Debug\BattleShip.BLL.csprojResolveAssemblyReference.cache
+C:\Bootcamp Code\Battleship\BattleShip_Start\BattleShip.BLL\obj\Debug\BattleShip.BLL.dll
+C:\Bootcamp Code\Battleship\BattleShip_Start\BattleShip.BLL\obj\Debug\BattleShip.BLL.pdb
+C:\Bootcamp Code\Graded Homework\Battleship\BattleShip_Start\BattleShip.BLL\bin\Debug\BattleShip.BLL.dll
+C:\Bootcamp Code\Graded Homework\Battleship\BattleShip_Start\BattleShip.BLL\bin\Debug\BattleShip.BLL.pdb
+C:\Bootcamp Code\Graded Homework\Battleship\BattleShip_Start\BattleShip.BLL\obj\Debug\BattleShip.BLL.csprojResolveAssemblyReference.cache
+C:\Bootcamp Code\Graded Homework\Battleship\BattleShip_Start\BattleShip.BLL\obj\Debug\BattleShip.BLL.dll
+C:\Bootcamp Code\Graded Homework\Battleship\BattleShip_Start\BattleShip.BLL\obj\Debug\BattleShip.BLL.pdb

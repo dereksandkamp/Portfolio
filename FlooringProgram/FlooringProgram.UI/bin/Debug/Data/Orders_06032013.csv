@@ -1,0 +1,2 @@
+Date,OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+6/3/2013 12:00:00 AM,1,Jorge,PA,6.75,Laminate,75,1.75,2.10,131.25,157.50,19.490625,308.240625

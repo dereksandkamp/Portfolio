@@ -1,0 +1,11 @@
+C:\flooringprogram\FlooringProgram\FlooringProgram.Data\bin\Debug\FlooringProgram.Data.dll
+C:\flooringprogram\FlooringProgram\FlooringProgram.Data\bin\Debug\FlooringProgram.Data.pdb
+C:\flooringprogram\FlooringProgram\FlooringProgram.Data\bin\Debug\FlooringProgram.Models.dll
+C:\flooringprogram\FlooringProgram\FlooringProgram.Data\bin\Debug\nunit.framework.dll
+C:\flooringprogram\FlooringProgram\FlooringProgram.Data\bin\Debug\FlooringProgram.Models.pdb
+C:\flooringprogram\FlooringProgram\FlooringProgram.Data\bin\Debug\nunit.framework.xml
+C:\flooringprogram\FlooringProgram\FlooringProgram.Data\obj\Debug\FlooringProgram.Data.csprojResolveAssemblyReference.cache
+C:\flooringprogram\FlooringProgram\FlooringProgram.Data\obj\Debug\FlooringProgram.Data.dll
+C:\flooringprogram\FlooringProgram\FlooringProgram.Data\obj\Debug\FlooringProgram.Data.pdb
+C:\flooringprogram\FlooringProgram\FlooringProgram.Data\bin\Debug\Newtonsoft.Json.dll
+C:\flooringprogram\FlooringProgram\FlooringProgram.Data\bin\Debug\Newtonsoft.Json.xml
